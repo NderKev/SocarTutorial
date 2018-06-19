@@ -49,7 +49,7 @@ contract SocarTutorial is Mortal {
 }
 
 
-To deploy open metamask on chrome webstore and install it:
+To deploy open metamask on your browser and install it: https://metamask.io/
 Create your ethereum test account:
 Then select rinkeby testnet:
 Then request testnet ether from Faucet.
